@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UMD Virology Program//EN
+X-WR-CALNAME:Virology Program group meetings
+BEGIN:VEVENT
+UID:20260928-meeting@virology.umd
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=America/New_York:20260928T121500
+DTEND;TZID=America/New_York:20260928T131500
+SUMMARY:Virology Program group meeting
+LOCATION:Microbiology Building Room 1123\, University of Maryland\, College Park
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-meeting@virology.umd
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=America/New_York:20261026T121500
+DTEND;TZID=America/New_York:20261026T131500
+SUMMARY:Virology Program group meeting
+LOCATION:Microbiology Building Room 1123\, University of Maryland\, College Park
+END:VEVENT
+BEGIN:VEVENT
+UID:20261123-meeting@virology.umd
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=America/New_York:20261123T121500
+DTEND;TZID=America/New_York:20261123T131500
+SUMMARY:Virology Program group meeting
+LOCATION:Microbiology Building Room 1123\, University of Maryland\, College Park
+END:VEVENT
+BEGIN:VEVENT
+UID:20270222-meeting@virology.umd
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=America/New_York:20270222T121500
+DTEND;TZID=America/New_York:20270222T131500
+SUMMARY:Virology Program group meeting
+LOCATION:Microbiology Building Room 1123\, University of Maryland\, College Park
+END:VEVENT
+BEGIN:VEVENT
+UID:20270322-meeting@virology.umd
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=America/New_York:20270322T121500
+DTEND;TZID=America/New_York:20270322T131500
+SUMMARY:Virology Program group meeting
+LOCATION:Microbiology Building Room 1123\, University of Maryland\, College Park
+END:VEVENT
+BEGIN:VEVENT
+UID:20270426-meeting@virology.umd
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=America/New_York:20270426T121500
+DTEND;TZID=America/New_York:20270426T131500
+SUMMARY:Virology Program group meeting
+LOCATION:Microbiology Building Room 1123\, University of Maryland\, College Park
+END:VEVENT
+END:VCALENDAR
